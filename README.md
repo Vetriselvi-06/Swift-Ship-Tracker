@@ -1,6 +1,6 @@
 # SwiftShip Tracker
 
-**Salesforce-Based Parcel Delivery Management System**
+Salesforce-Based Parcel Delivery Management System
 
 ## About
 
@@ -24,8 +24,10 @@ SwiftShip Tracker is a Salesforce-based project for managing parcel booking, tra
 
 ## Project Documentation
 
-Complete documentation is available in **SwiftShip-Tracker.pdf**.
+Complete documentation is available in SWIFT SHIP TRACKER.pdf.
+
+[View Project Documentation](https://github.com/Vetriselvi-06/Swift-Ship-Tracker/blob/main/SWIFT%20SHIP%20TRACKER.pdf)
 
 ## Team Project
 
-This is a **Group Project** developed using Salesforce.
+This is a Group Project developed using Salesforce.
